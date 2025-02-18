@@ -1,5 +1,4 @@
 # Chess
 Chess gmae based on python 
-Install the modules
-    pip install pygame chess
+To install the package, run `pip install pygame chess`.
 
